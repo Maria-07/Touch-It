@@ -4,10 +4,10 @@ import React from "react";
 import "./Home.css";
 import SingleReview from "../SingleReview/SingleReview";
 import useReviews from "../../Hooks/useReviews";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   const [reviews, setReviews] = useReviews();
-  console.log(reviews.index);
 
   return (
     <div className="container mx-auto">
@@ -38,7 +38,7 @@ const Home = () => {
 
       {/* Review part  */}
 
-      <div className="Review-Container">
+      <div className="Review-Container mb-32">
         <h1 className="text-4xl font-semibold">Customer Review</h1>
 
         <div className="reviews-container grid md:grid-cols-3 my-12 gap-10">
@@ -49,6 +49,10 @@ const Home = () => {
               )
           )}
         </div>
+
+        <button className="py-3 px-8 text-white">
+          <Link to={"/review"}>See More Reviews</Link>
+        </button>
       </div>
     </div>
   );
