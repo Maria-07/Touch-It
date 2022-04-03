@@ -9,11 +9,12 @@
     align-items: center;
 }
 
-span {
+.head span {
     color: #579d8f;
 }
 
 button {
+    align-items: center;
     font-size: 1.2em;
     background-color: #579d8f;
     /* border-radius: 8px; */

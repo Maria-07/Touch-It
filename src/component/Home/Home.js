@@ -1,7 +1,14 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 import "./Home.css";
+import SingleReview from "../SingleReview/SingleReview";
+import useReviews from "../../Hooks/useReviews";
 
 const Home = () => {
+  const [reviews, setReviews] = useReviews();
+  console.log(reviews.index);
+
   return (
     <div className="container mx-auto">
       <div className="head grid md:grid-cols-2 gap-4">
@@ -19,10 +26,28 @@ const Home = () => {
             through our links. Ratings and prices are accurate and items are in
             stock as of time of publication.
           </p>
-          <button className="py-3 px-6 text-white ">More Details</button>
+          <button className="py-3 px-6 text-white ">
+            More Details
+            <FontAwesomeIcon className="ml-2" icon={faArrowRight} />
+          </button>
         </div>
         <div>
           <img className="head-image" src="smartHome.png" alt="" />
+        </div>
+      </div>
+
+      {/* Review part  */}
+
+      <div className="Review-Container">
+        <h1 className="text-4xl font-semibold">Customer Review</h1>
+
+        <div className="reviews-container grid md:grid-cols-3 my-12 gap-10">
+          {reviews.map(
+            (review) =>
+              review.index < 3 && (
+                <SingleReview key={review.id} reviews={review}></SingleReview>
+              )
+          )}
         </div>
       </div>
     </div>
