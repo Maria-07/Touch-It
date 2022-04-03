@@ -1,0 +1,27 @@
+.head-image {
+    height: 900px;
+    width: 650px;
+}
+
+.head {
+    font-family: 'Poppins',
+        sans-serif;
+    align-items: center;
+}
+
+span {
+    color: #579d8f;
+}
+
+button {
+    font-size: 1.2em;
+    background-color: #579d8f;
+    /* border-radius: 8px; */
+    transition: ease-in-out 0.3s;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #579d8f;
+    border: 2px solid #579d8f;
+}
