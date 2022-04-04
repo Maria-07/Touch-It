@@ -1,6 +1,6 @@
 # Getting Started with touchIT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project of touchIT with [touchIT Live Link](https://touchit-tech.netlify.app/).
 
 ## About the website
 
