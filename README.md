@@ -1,8 +1,20 @@
-# Getting Started with Create React App
+# Getting Started with touchIT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About the website
+
+- The website is about a brand called touchIT
+- Here we can find information about their products
+- SmartHome is their newly launched product
+- the product provides
+  - WIRELESS
+  - ENERGY EFFICIENT
+  - EASY CONTROL
+  - SIMPLE SETUP
+  - SUPERIOR DESIGN
+  - HIGHLY COMPATIBLE
+- Dashboard & Blog included
 
 In the project directory, you can run:
 
