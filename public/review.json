@@ -1,34 +1,39 @@
 [
   {
     "id": "6249c4bc339b2201f616390e",
+    "img": "https://images.pexels.com/users/avatars/119720/jonas-kakaroto-688.png?auto=compress&fit=crop&h=256&w=256",
     "index": 0,
-    "rating": 5,
+    "rating": 4,
     "name": "Millie West",
     "review": "Veniam consectetur ex fugiat mollit in minim culpa nostrud aliquip sint do culpa. Sit esse ad incididunt commodo irure sit. Mollit nulla sint nostrud incididunt. Consequat amet reprehenderit culpa ex eu. consequat elit esse labore elit.\r\n"
   },
   {
     "id": "6249c4bc4ae35520478d9178",
+    "img": "https://www.visualelementmedia.com/wp-content/uploads/2015/04/person-4-400x629.jpg",
     "index": 1,
-    "rating": 6,
+    "rating": 5,
     "name": "Gallagher Cruz",
     "review": "Laboris ullamco anim quis cupidatat pariatur laborum. Aliqua qui pariatur irure laborum et duis voluptate dolore nulla quis fugiat anim consequat occaecat. Ea cillum ea minim voluptate cillum exercitation ullamco. Incididunt quis proident laborum qui quis deserunt est.\r\n"
   },
   {
     "id": "6249c4bcda3bf440200b5e66",
+    "img": "https://htai.org/wp-content/uploads/2021/08/Antonio--214x300.jpg",
     "index": 2,
-    "rating": 3,
+    "rating": 3.5,
     "name": "Mcgowan Padilla",
     "review": "Commodo elit aute voluptate est cupidatat ea aliqua ullamco labore ad. Sit esse aliqua sint eiusmod minim enim sunt excepteur deserunt dolor Lorem. Nisi ipsum do amet veniam eu pariatur et excepteur cupidatat aliqua id. Esse duis sint ipsum sit eiusmod aute ea.\r\n"
   },
   {
     "id": "6249c4bcbb59d4b3307b3eba",
+    "img": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
     "index": 3,
-    "rating": 3,
+    "rating": 3.2,
     "name": "Vera Cantrell",
     "review": "Anim consequat consectetur sit dolor nisi ut tempor occaecat magna tempor esse commodo. Officia quis anim minim nostrud magna ullamco. Adipisicing voluptate nostrud do tempor occaecat exercitation quis non non quis cillum consectetur.\r\n"
   },
   {
     "id": "6249c4bca5b87176eb9c76ad",
+    "img": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
     "index": 4,
     "rating": 3,
     "name": "Shannon Stephenson",
@@ -36,13 +41,15 @@
   },
   {
     "id": "6249c4bcc16f340494ecab0d",
+    "img": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
     "index": 5,
-    "rating": 6,
+    "rating": 4,
     "name": "Vilma Clemons",
     "review": "Ut labore commodo nostrud excepteur culpa non sunt veniam dolore do. Ullamco fugiat aliqua in do velit. Elit velit Lorem laboris officia duis et ad consectetur aliquip esse velit tempor. Magna deserunt in veniam aliquip irure in minim est minim ex mollit. Enim mollit culpa voluptate aute consequat qui ex aute aliquip dolore dolor.\r\n"
   },
   {
     "id": "6249c4bc278ea86a7124aec7",
+    "img": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
     "index": 6,
     "rating": 5,
     "name": "Ruth Conway",
@@ -50,13 +57,15 @@
   },
   {
     "id": "6249c4bcd48592c632ef2327",
+    "img": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
     "index": 7,
-    "rating": 6,
+    "rating": 5,
     "name": "Abby Bond",
     "review": "Deserunt magna incididunt do commodo voluptate ea nisi proident esse laborum nulla esse culpa ut. Ipsum ipsum in sunt anim cupidatat enim. Enim adipisicing duis officia occaecat. Dolor quis velit deserunt cupidatat occaecat cupidatat non commodo et.\r\n"
   },
   {
     "id": "6249c4bce064b5dc7e85edfe",
+    "img": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=0hb44OrI",
     "index": 8,
     "rating": 3,
     "name": "Vance Joyce",
