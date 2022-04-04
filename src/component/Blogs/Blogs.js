@@ -5,7 +5,7 @@ const Blogs = () => {
   return (
     <div>
       <h2 className=" text-4xl mt-10 text-teal-700">Blog Part</h2>
-      <article className="container mx-auto mt-28 mb-32">
+      <article className="container p-5 mx-auto mt-28 mb-32">
         <div className="blog text-left w-4/5  py-5">
           <h1 className=" text-3xl text-teal-700">What API Context means ?</h1>
           <p className=" text-lg my-10">
